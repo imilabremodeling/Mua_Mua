@@ -89,7 +89,7 @@ try:
             Product_ID = temp_var.get_value()
             print("Current Type:", Product_ID)
             Product_ID_ar.append(Product_ID)
-            feedback+=("Muatest&muatest&"+str(Product_ID)+"&")
+            feedback+=("muatest&mutest&"+str(Product_ID)+"&")
 
 
             # 假设我们知道变量的节点ID
@@ -190,7 +190,7 @@ try:
             Product_ID = temp_var.get_value()
             print("Current Type:", Product_ID)
             Product_ID_ar.append(Product_ID)
-            feedback+=("Muatest&muatest&"+str(Product_ID)+"&")
+            feedback+=("muatest&mutest&"+str(Product_ID)+"&")
 
 
             # 假设我们知道变量的节点ID
