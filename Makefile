@@ -5,7 +5,7 @@ SERVER  =
 COMMIT  =${shell git rev-parse --short HEAD}
 VERSION ?=${COMMIT}
 TYPE    ?=minikube
-DEPLOY_GROUP=mua
+DEPLOY_GROUP=cnc2
 REPO_NAME=imilabremodeling/campro
 
 build-image:
